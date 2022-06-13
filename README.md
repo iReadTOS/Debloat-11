@@ -4,3 +4,6 @@ This project aims to help users stop/minimize the amount of data that Windows 11
 
 
 Disclaimer: Before running the scripts, it is recommended to read through and make changes based on your needs. Everyone prefers diffrent settings and it may be a pain later on to fix issues or change a setting back when you notice. I built this from multiple diffrent debloat scripts found from Github and credit is given where needed.
+
+
+All suggestions are welcome and you can create a pull request if wanted. Otherwise, if you have issues, create a new issue in the issues section and I will take a look.
