@@ -1,4 +1,4 @@
-#Debloat Windows 11/10
+Debloat Windows 11/10
 
 This project aims to help users stop/minimize the amount of data that Windows 11 and Windows 10 will send back to Microsoft. The project also helps to reduce internet usage caused by Windows's background tasks. Multiple scripts are provided with each script doing diffrent things, like just privacy and security fixes or removal of bloatware apps. 
 
